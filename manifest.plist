@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.morpheus.CFV1</string>
+				<string>com.morpheus.CVF1</string>
 				<key>bundle-version</key>
 				<string>1.4.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>CVF</string>
+				<string>cvf</string>
 			</dict>
 		</dict>
 	</array>
