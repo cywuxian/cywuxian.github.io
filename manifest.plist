@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.morpheus.CVF1</string>
+				<string>com.jiancaiyi.jceshop</string>
 				<key>bundle-version</key>
-				<string>1.4.2</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>

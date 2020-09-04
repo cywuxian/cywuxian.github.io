@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://cywuxian.github.io/CVF.ipa</string>
+		<string>https://cywuxian.github.io/eshop.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://cywuxian.github.io/image.png</string>
 		<key>fullSizeImageURL</key>
@@ -22,7 +22,7 @@
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>FKFT6998B7</string>
+	<string>5A744G776W</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>
